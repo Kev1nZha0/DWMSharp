@@ -1,1 +1,1 @@
-WindowsFormsAppDWM
+基于DWM获取程序的实时缩略图信息,支持Vista以上的操作系统
